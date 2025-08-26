@@ -1,8 +1,8 @@
-POST http://localhost:3001/api/persons
+POST https://mon-backend-vbek.onrender.com/api/persons
 Content-Type : application/json
 
 {
-  "name": "Pault",
-  "number": "648338"
+  "name": "Paulmt",
+  "number": "6484338"
 }
 
